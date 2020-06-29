@@ -1,0 +1,2 @@
+Tis is first file.
+i am trying to learn git in devops.
